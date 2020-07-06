@@ -1,0 +1,12 @@
+{
+    author = "LinaTsukusu",
+    name = "lon",
+    description = "",
+    repository = "LinaTsukusu-CCOC/lon",
+    version = "1.0.0",
+    files = {
+        "lon.lua"
+    },
+    dependencies = {
+    },
+}
